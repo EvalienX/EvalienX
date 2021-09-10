@@ -1,4 +1,4 @@
-<h1 align="center">Heyooooo I'm EValienX</h1>
+<h1 align="center">Heyooooo I'm EvalienX</h1>
 <h3 align="center">A rando who makes web API's and programs for my own self :D</h3>  
 
 - Oh yeah, I should probably add a link to my Youtube Channel :/
